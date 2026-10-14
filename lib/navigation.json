@@ -1,0 +1,474 @@
+[
+  {
+    "label": "System",
+    "sections": [
+      {
+        "title": "Why Terminal?",
+        "description": "Why Terminal?\n\nTerminal was founded by industry leaders to establish a new standard in yard execution that unifies critical yard functions within a full-stack, modern platform. ",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/why-terminal"
+          }
+        ]
+      },
+      {
+        "title": "The Yard Operating System\u2122",
+        "description": "The Yard Operating System\u2122\n\nTerminal\u2019s comprehensive AI-native system, including its own SmartYard YMS, automates and optimizes every aspect of your yard operations into a single source of truth. Modular, configurable, integrated.",
+        "image": null,
+        "links": [
+          {
+            "label": "What is YOS\u2122",
+            "href": "/what-is-terminal-yos"
+          },
+          {
+            "label": "SmartYard\u2122 YMS",
+            "href": "/smart-yard-tm-yms"
+          },
+          {
+            "label": "The Agentic AI Yard",
+            "href": "/the-agentic-ai-yard"
+          },
+          {
+            "label": "Terminal at the Gate",
+            "href": "/terminal-at-the-gate"
+          },
+          {
+            "label": "Terminal In the Yard",
+            "href": "/terminal-in-the-yard"
+          },
+          {
+            "label": "Terminal at the Dock",
+            "href": "/terminal-at-the-dock"
+          },
+          {
+            "label": "Terminal Across Your Operations",
+            "href": "/terminal-across-your-operation"
+          }
+        ]
+      },
+      {
+        "title": "The Agentic AI Yard",
+        "description": "The Agentic AI Yard\n\nOur AI agentic-enabled  system orchestrates yard operations in real time, using AI to make autonomous decisions, and continuously adapts to changing conditions, reducing delays, improving asset utilization, and providing a single coherent view of the entire yard.",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/the-agentic-ai-yard"
+          }
+        ]
+      },
+      {
+        "title": "Terminal Computer Vision",
+        "description": "Terminal Computer Vision\n\nTurn a manual, fragmented logistics yard into an AI-driven system that automates operations, tracks assets, detects damage, and enhances security.",
+        "image": null,
+        "links": [
+          {
+            "label": "Learn More",
+            "href": "/terminal-ai-computer-vision"
+          }
+        ]
+      },
+      {
+        "title": "Yard Security",
+        "description": "The yard is the most exposed surface of the supply chain. Terminal YOS\u2122 mitigates security risks by binding security,  cargo fraud prevention, and custody with core yard management, delivering the industry's only closed-loop system of record for yard operations.",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/yard-security"
+          }
+        ]
+      },
+      {
+        "title": "YOS vs. YMS",
+        "description": "YOS vs. YMS\n\nSee how our AI-native and vision-ready Yard Operating System goes beyond traditional Yard Management Systems to provide a complete, end-to-end solution.",
+        "image": null,
+        "links": [
+          {
+            "label": "Learn More",
+            "href": "/yos-vs-yms"
+          }
+        ]
+      },
+      {
+        "title": "Top 10 Yard Problems",
+        "description": "Top 10 Yard Problems\n\nWe know the yard. Explore the Top 10 challenges in yard logistics today and how Terminal provides specific, effective solutions for each one.",
+        "image": null,
+        "links": [
+          {
+            "label": "Real-Time Visibility",
+            "href": "/top-yard-problems/real-time-visibility"
+          },
+          {
+            "label": "Inefficient Operations",
+            "href": "/top-yard-problems/inefficient-operations"
+          },
+          {
+            "label": "High Operational Costs",
+            "href": "/top-yard-problems/high-operational-costs"
+          },
+          {
+            "label": "Poor Customer Experience",
+            "href": "/top-yard-problems/poor-customer-experience"
+          },
+          {
+            "label": "Security, Safety, and Fraud",
+            "href": "/top-yard-problems/security-safety-and-fraud"
+          },
+          {
+            "label": "Supply Chain Resilience",
+            "href": "/top-yard-problems/lack-of-supply-chain-resilience"
+          },
+          {
+            "label": "Slow Tech Adoption",
+            "href": "/top-yard-problems/slow-technology-adoption"
+          },
+          {
+            "label": "Meeting Sustainability Targets",
+            "href": "/top-yard-problems/meeting-sustainability-targets"
+          },
+          {
+            "label": "Labor Shortages and Workforce Issues",
+            "href": "/top-yard-problems/labor-shortages-and-workforce-issues"
+          },
+          {
+            "label": "Lack of Integration and Data",
+            "href": "/top-yard-problems/lack-of-integration-and-data"
+          }
+        ]
+      },
+      {
+        "title": "Get More out of TMS/WMS",
+        "description": "Get More out of TMS/WMS\n\nTerminal was designed to be a new industry standard in the yard to help unleash the performance and unlock the value and of your existing WMS and TMS systems.",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/get-more-out-of-your-wms-and-tms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Markets",
+    "sections": [
+      {
+        "title": "By Size",
+        "description": "By Size \n\nFrom medium-sized operations with a handful of yards, to large-enterprises with hundreds of yards under management, Terminal is easily configurable to your unique needs.",
+        "image": null,
+        "links": [
+          {
+            "label": "Enterprise Operations",
+            "href": "/what-is-terminal-yos"
+          },
+          {
+            "label": "Medium-Sized Operations",
+            "href": "/markets/terminal-for-medium-sized-operations"
+          }
+        ]
+      },
+      {
+        "title": "By Need",
+        "description": "By Need \n\nPowered by AI-Native computer vision, the Terminal Yard Operating System extends beyond traditional yard management. ",
+        "image": null,
+        "links": [
+          {
+            "label": "Gate Management",
+            "href": "/modules/gate-management"
+          },
+          {
+            "label": "Carrier Risk Assessment & Driver ID",
+            "href": "/modules/carrier-risk-assessment-and-driver-id"
+          },
+          {
+            "label": "Dispatch & Spotter Orchestration",
+            "href": "/modules/dispatch-and-spotter-orchestration"
+          },
+          {
+            "label": "Yard Visibility",
+            "href": "/modules/yard-visibility"
+          },
+          {
+            "label": "Load Verification",
+            "href": "/modules/load-verification"
+          },
+          {
+            "label": "Carrier Appointments",
+            "href": "/modules/carrier-appointments"
+          },
+          {
+            "label": "End to End Yard Security",
+            "href": "/yard-security"
+          }
+        ]
+      },
+      {
+        "title": "By Role",
+        "description": "By Role \n\nFrom gate to boardroom, Terminal addresses the need of the many different constituents interested in improving yard operations. ",
+        "image": null,
+        "links": [
+          {
+            "label": "Executive Leadership",
+            "href": "/markets/terminal-for-executive-leadership"
+          },
+          {
+            "label": "Financial Decision Makers",
+            "href": "/markets/terminal-for-financial-decision-makers"
+          },
+          {
+            "label": "Digital Transformation & Innovation",
+            "href": "/markets/terminal-for-digital-transformation-innovation-teams"
+          },
+          {
+            "label": "IT & Technology Professionals",
+            "href": "/markets/terminal-for-it-technology-professionals"
+          },
+          {
+            "label": "Operations Management",
+            "href": "/markets/terminal-for-operations-management"
+          },
+          {
+            "label": "Logistics Specialists",
+            "href": "/markets/terminal-for-logistics-specialists"
+          },
+          {
+            "label": "Frontline Users",
+            "href": "/markets/terminal-for-frontline-users"
+          }
+        ]
+      },
+      {
+        "title": "By Industry",
+        "description": "By Industry\n\nTerminal's intelligent solutions are engineered to meet the unique and complex operational needs of leading companies across a wide range of industries.",
+        "image": null,
+        "links": [
+          {
+            "label": "Third Party Logistics",
+            "href": "/markets/terminal-for-3pls"
+          },
+          {
+            "label": "Retail & Grocery",
+            "href": "/markets/terminal-for-retail-grocery"
+          },
+          {
+            "label": "Consumer Packaged Goods",
+            "href": "/markets/terminal-for-consumer-packaged-goods-cpg-"
+          },
+          {
+            "label": "Refrigerated Warehousing",
+            "href": "/markets/terminal-for-refrigerated-warehousing"
+          },
+          {
+            "label": "Contract Carriers",
+            "href": "/markets/terminal-for-contract-carriers"
+          }
+        ]
+      },
+      {
+        "title": "By Facility",
+        "description": "By Facility\n\nTerminal provides a comprehensive operating system that optimizes efficiency and increases visibility for diverse facility types at scale.",
+        "image": null,
+        "links": [
+          {
+            "label": "Warehouse Yards",
+            "href": "/markets/terminal-for-warehouse-yards"
+          },
+          {
+            "label": "Manufacturing Facilities",
+            "href": "/markets/terminal-for-manufacturing-facilities"
+          },
+          {
+            "label": "Drop Lots",
+            "href": "/markets/terminal-for-drop-lots"
+          },
+          {
+            "label": "Maintenance & Fueling Depots",
+            "href": "/markets/terminal-for-maintenance-fueling-depots"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Featured",
+    "sections": [
+      {
+        "title": "2026 State of the Yard Survey",
+        "description": "2026 State of the Yard Survey\n\nExplore interactive insights from 2000 respondents on the current state of yard management: what\u2019s working, what\u2019s not, and where logistics is headed.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Explore the Survey",
+            "href": "/interactive-highlights-2026-state-of-the-yard-survey"
+          }
+        ]
+      },
+      {
+        "title": "2026 Events",
+        "description": "Meet with Terminal on the Road\n\nMeet with Terminal executives and GTM teams on the road at the industry's most compelling events. \n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Terminal on the Road",
+            "href": "/events"
+          }
+        ]
+      },
+      {
+        "title": "Yard Security Grader",
+        "description": "Yard Security Grader\n\nFill our an interactive questionnaire to grade your yard security capabilities across 5 distinct layers. Download a detailed report. \n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Grade your yard security now.",
+            "href": "/yard-security-grader"
+          }
+        ]
+      },
+      {
+        "title": "Yard Efficiency Calculator",
+        "description": "Yard Efficiency Calculator\n\nSee exactly how much you could save. Get real, customized results in seconds based on your current yard operations.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Go to Calculator",
+            "href": "/yard-efficiency-calculator"
+          }
+        ]
+      },
+      {
+        "title": "Lights-Out Yard Webinar",
+        "description": "Lights-Out Yard Webinar\n\nTune in monthly for real conversations on supply chain challenges, new technology, and the role of AI in modern yard operations.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Register Today",
+            "href": "/all-resources/lights-out-yard-episode-5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Resources",
+    "sections": [
+      {
+        "title": "Resources",
+        "description": "All Resources\n\nAccess our full collection of news, press, podcasts, videos, case studies, blogs,  webinars, and more.",
+        "image": null,
+        "links": [
+          {
+            "label": "All Resources",
+            "href": "/resources"
+          }
+        ]
+      },
+      {
+        "title": "Press Releases",
+        "description": "Press Releases\n\nExplore our latest press releases covering product launches, company updates, and key developments.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/resources/press-releases"
+          }
+        ]
+      },
+      {
+        "title": "Podcasts & Articles",
+        "description": "Podcasts & Articles\n\nExplore thought-provoking discussions featuring our team and top voices across the industry.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/resources/podcasts-articles"
+          }
+        ]
+      },
+      {
+        "title": "Videos",
+        "description": "Videos\n\nWatch videos of our computer vision, AI technology, and yard operations at work in real environments.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Watch Now",
+            "href": "/resources/videos"
+          }
+        ]
+      },
+      {
+        "title": "Blogs",
+        "description": "Blogs\n\nRead insights, analysis, and opinions from leaders driving the future of supply chain and yard operations.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More",
+            "href": "/resources/blogs"
+          }
+        ]
+      },
+      {
+        "title": "Case Studies ",
+        "description": "Case Studies\n\nRead case studies from leading supply chain teams and the results they\u2019ve achieved with our platform.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Read More ",
+            "href": "https://terminal-industries.com/resources/case-studies"
+          }
+        ]
+      },
+      {
+        "title": "Webinars",
+        "description": "Lights-Out Yard Webinar\n\nTune in monthly for real conversations on supply chain challenges, new technology, and the role of AI in modern yard operations.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Check them out!",
+            "href": "https://terminal-industries.com/resources/webinars"
+          }
+        ]
+      },
+      {
+        "title": "Yard Efficiency Calculator",
+        "description": "Yard Efficiency Calculator\n\nSee exactly how much you could save.\n\nGet real, customized results in seconds based on your current yard operations. \n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Go to Calculator",
+            "href": "/yard-efficiency-calculator"
+          }
+        ]
+      },
+      {
+        "title": "2026 State of the Yard Survey",
+        "description": "2026 State of the Yard Survey\n\nExplore interactive insights from 2,000 respondents on the current state of yard management: what's working, what's not, and where things are headed.\n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Explore the Survey",
+            "href": "/interactive-highlights-2026-state-of-the-yard-survey"
+          }
+        ]
+      },
+      {
+        "title": "Yard Security Grader",
+        "description": "2026 State of the Yard Survey\n\nFill our an interactive questionnaire to grade your yard security capabilities across 5 distinct layers. Download a detailed report. \n\n",
+        "image": null,
+        "links": [
+          {
+            "label": "Grade your yard security now.",
+            "href": "/yard-security-grader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "About",
+    "href": "about"
+  }
+]

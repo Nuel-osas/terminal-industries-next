@@ -1,0 +1,308 @@
+{
+  "_uid": "d0f9053a-f987-4eae-979e-d2956634dd92",
+  "label": "Terminal · Yard Security Grader",
+  "title": "Grade your yard",
+  "layers": [
+    {
+      "tag": "Baseline",
+      "_uid": "6017344c-4aff-4bfd-ac7f-307617bf5dd0",
+      "name": "Digital Check-in",
+      "badge": "L00",
+      "accent": "slate",
+      "caption": "Layer 00 replaces paper with an auditable, attributed record of every gate event.",
+      "rec_why": "Without a digital baseline there is no reliable record, and every layer above it is building on sand.",
+      "rec_stop": "running the gate on paper",
+      "component": "GraderLayer",
+      "questions": [
+        {
+          "_uid": "6d395176-2971-4470-8cee-3971f5068cad",
+          "question": "Every gate entry is captured digitally, timestamped, and attributed (not on paper).",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": true
+        },
+        {
+          "_uid": "7a1e1d60-d2f8-425d-b74e-9af78e22593e",
+          "question": "Trailer and asset IDs and condition are captured by computer vision, without manual entry.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "b630f498-5af7-4f4f-a6d1-f0f271bcc6a2",
+          "question": "You can search gate history by carrier, driver, asset, or time.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        }
+      ],
+      "rec_start": "capturing every entry digitally, timestamped and attributed",
+      "exposure_copy": "Without a digital baseline, there is no reliable record of who or what entered. Paper logs go missing or get edited, and every layer above this one is building on sand.",
+      "standard_copy": "Every entry timestamped and attributed. Computer vision captures trailer and asset IDs and condition without operator input. History searchable by carrier, driver, asset, or time.",
+      "qualifier_criterion": "Access control and logging",
+      "qualifier_criterion_copy": "A timestamped, attributable gate record is what a validation asks for."
+    },
+    {
+      "tag": "Layer 01",
+      "_uid": "a267eeed-b3c6-4e61-9898-d72aea997b17",
+      "name": "Carrier Risk Assessment",
+      "badge": "L01",
+      "accent": "amber",
+      "caption": "Layer 01 turns every DOT scan into a live, tier-coded risk signal at arrival.",
+      "rec_why": "Fraud walks in at arrival, not at booking. A live signal at the gate is what catches the double-broker your booking check cannot.",
+      "rec_stop": "checking carriers only at booking",
+      "component": "GraderLayer",
+      "questions": [
+        {
+          "_uid": "951b2f21-5365-46e0-ba55-dc5d27e5aa7b",
+          "question": "You check live carrier authority, insurance, and safety at arrival, not just at booking.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": true
+        },
+        {
+          "_uid": "f317dcb8-e4eb-4549-a350-ad7059dae2dc",
+          "question": "You confirm the arriving carrier is the one that was actually booked.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "b02e236d-4f2f-48d6-b539-39eeae73c60f",
+          "question": "A risky carrier triggers a decision at the gate (stop, document, clear), not a report afterward.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        }
+      ],
+      "rec_start": "pulling live authority, insurance, and safety at arrival, with a tier-coded decision in the lane",
+      "exposure_copy": "You are treating every carrier the same because the gate cannot tell them apart. A double-brokered or unauthorized carrier looks identical to a trusted one until the trailer is gone.",
+      "standard_copy": "Authority, insurance, safety, and OOS history checked live at arrival. Every scan returns a tier-coded decision: stop, document, judge, or clear. The arriving carrier is confirmed against the booking.",
+      "qualifier_criterion": "Business partner screening",
+      "qualifier_criterion_copy": "Live carrier vetting at arrival is what strengthens this criterion."
+    },
+    {
+      "tag": "Layer 02",
+      "_uid": "af5b58fd-38d5-4cff-864c-194cc115fca7",
+      "name": "ID Verification",
+      "badge": "L02",
+      "accent": "blue",
+      "caption": "Layer 02 authenticates the driver and matches them to the load, in seconds.",
+      "rec_why": "A visual glance cannot catch a convincing fake, and nothing ties the driver to the load they came for.",
+      "rec_stop": "waving IDs through on a glance",
+      "component": "GraderLayer",
+      "questions": [
+        {
+          "_uid": "2935420e-da61-4e44-8727-0d8fc0e0952c",
+          "question": "Driver IDs are authenticated for fakes, not eyeballed.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": true
+        },
+        {
+          "_uid": "02b68029-3657-4b8d-bdd2-923c0f40ae4e",
+          "question": "The driver is matched to the one expected on this load.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "1f6a119a-67ae-48db-96b6-23e4881a0d43",
+          "question": "Driver identity is captured and logged on both arrival and departure.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": true
+        }
+      ],
+      "rec_start": "authenticating every ID for fakes and matching the driver to the load",
+      "exposure_copy": "A visual glance cannot catch a convincing fake, and nothing ties the driver to the load they came for. This is the exact gap a fraudulent pickup walks through.",
+      "standard_copy": "The ID is authenticated for fakes, not glanced at, and the driver is matched to the one expected on the load. Identity captured and logged on arrival and departure.",
+      "qualifier_criterion": "Positive driver identification",
+      "qualifier_criterion_copy": "Authenticated, logged driver identity is a core access-control expectation."
+    },
+    {
+      "tag": "Layer 03",
+      "_uid": "9efc947e-db0e-4bb7-89fc-a71893a1d0d0",
+      "name": "Load Verification",
+      "badge": "L03",
+      "accent": "purple",
+      "caption": "Layer 03 ties the seal, load images, and BOL to the shipment, so custody is provable and chargebacks are defensible.",
+      "rec_why": "It turns an unwinnable chargeback into a defensible one, and closes a CTPAT seal-integrity gap at the same time.",
+      "rec_stop": "releasing loads on trust",
+      "component": "GraderLayer",
+      "questions": [
+        {
+          "_uid": "ea9ae3d2-2a39-4e3d-8c7d-1329686e6122",
+          "question": "Seal numbers are captured and checked against the shipment at the gate.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": true
+        },
+        {
+          "_uid": "003ee14a-2621-4292-adcc-ff7e8324b3af",
+          "question": "Load and BOL images are captured and tied to the specific shipment, timestamped.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "6c13edd4-48ce-4cc3-a107-dee0a5470e31",
+          "question": "You could defend a damage or shortage chargeback with a custody record from gate to dock.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        }
+      ],
+      "rec_start": "capturing the seal, load images, and the BOL against the shipment at the gate",
+      "exposure_copy": "Without a captured seal, load images, and a BOL tied to the shipment, custody is a matter of trust. A damage or shortage chargeback becomes your word against theirs, and you usually lose.",
+      "standard_copy": "The seal is captured and checked against the shipment. Load and BOL images tied to the shipment and timestamped. The record would defend a damage or shortage chargeback, gate to dock.",
+      "qualifier_criterion": "Conveyance and seal integrity",
+      "qualifier_criterion_copy": "Seal capture is a named criterion, and the record has to exist to satisfy it."
+    },
+    {
+      "tag": "Layer 04",
+      "_uid": "9239d13e-e628-43b2-89b2-bebb38137d9f",
+      "name": "Perimeter Cameras",
+      "badge": "L04",
+      "accent": "teal",
+      "caption": "Layer 04 closes the fence line with cloud video, LPR, and AI detection in the YOS.",
+      "rec_why": "Passive footage nobody watches is not security. Integrated detection turns it into a response you can act on.",
+      "rec_stop": "treating the fence line as out of scope",
+      "component": "GraderLayer",
+      "questions": [
+        {
+          "_uid": "5e6285ad-9103-4924-9861-56651398a09e",
+          "question": "The fence line and yard are covered by cameras integrated with your yard view, not a separate silo.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "c531a610-d052-4b6d-8dc2-ad8fc38c152f",
+          "question": "License plate recognition ties every truck at the gate to its check-in.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        },
+        {
+          "_uid": "6fcd095e-9a3f-4f88-8ea0-14eba9ed0117",
+          "question": "AI detection flags intrusion, loitering, or tampering and routes it to the right person in real time.",
+          "component": "GraderQuestion",
+          "counts_toward_qualifier": false
+        }
+      ],
+      "rec_start": "tying cameras and plate recognition into the yard view, with intrusion and tamper alerts routed in real time",
+      "exposure_copy": "The fence line and after-hours yard are blind. Intrusion, loitering, and tampering happen with no alert and no searchable footage to investigate afterward.",
+      "standard_copy": "Cameras integrated into the yard view, not a silo. Plate recognition ties every truck to its check-in. AI detection flags intrusion, loitering, and tampering, routed in real time.",
+      "qualifier_criterion": "",
+      "qualifier_criterion_copy": ""
+    }
+  ],
+  "verdicts": [
+    {
+      "tag": "Layered defense",
+      "_uid": "a8a35ec3-7a53-4540-96c8-9475e15fff01",
+      "body": "All five layers are working. Every known exposure vector has a control behind it, and each event is one auditable record your team, your claims desk, and an auditor can all pull.",
+      "tone": "ok",
+      "headline": "Defense in depth at the gate.",
+      "component": "GraderVerdict",
+      "min_layers_in_place": "5"
+    },
+    {
+      "tag": "Partial cover",
+      "_uid": "9b12e111-8f06-4c8c-a128-9ec8081d5c9b",
+      "body": "Some layers hold, but the open ones are exactly where strategic theft, a paper-clean double-broker, or an unwinnable chargeback walk in. Partial cover reads as full cover right up until the load is gone.",
+      "tone": "warn",
+      "headline": "Real gaps a coordinated actor can exploit.",
+      "component": "GraderVerdict",
+      "min_layers_in_place": "2"
+    },
+    {
+      "tag": "Single point of failure",
+      "_uid": "77697067-17f1-4d21-84b5-d42db991d1f0",
+      "body": "A single control is not defense in depth. When it misses, nothing behind it catches the miss, and the gate has no second line.",
+      "tone": "stop",
+      "headline": "One layer is doing all the work.",
+      "component": "GraderVerdict",
+      "min_layers_in_place": "1"
+    },
+    {
+      "tag": "Open yard",
+      "_uid": "3ee40b41-a144-4d9a-b89b-56a63a1f8c4d",
+      "body": "Right now the yard runs on trust. Nothing reliably confirms who or what enters or leaves, and no record would hold up in a claim or an audit.",
+      "tone": "stop",
+      "headline": "The gate is verifying almost nothing.",
+      "component": "GraderVerdict",
+      "min_layers_in_place": "0"
+    }
+  ],
+  "component": "Grader",
+  "cta_title": "Get your full Yard Security Report",
+  "demo_link": {
+    "id": "2d622a29-c904-4bd0-a7c1-4c0f27a4dae3",
+    "url": "",
+    "linktype": "story",
+    "fieldtype": "multilink",
+    "cached_url": "contact"
+  },
+  "intro_copy": "This grader is fifteen quick questions that will assess your operation across five layers of yard security. The result is a single security score and summary action plan, no login to see your result.",
+  "campaign_id": "701cx00000pWADN",
+  "legend_label": "What we grade",
+  "report_title": "Yard Security Report",
+  "results_label": "Your result",
+  "cta_disclaimer": "We use this to prepare your report and follow up. No spam.",
+  "exposure_label": "Your biggest exposure",
+  "qualifier_note": "We will add a readiness read to your result.",
+  "report_enabled": true,
+  "cta_button_text": "Get my report",
+  "cta_description": "Your scored result, what good looks like at each layer, and a prioritized plan to close your gaps. Prepared for you as a branded PDF.",
+  "qualifier_label": "CTPAT readiness",
+  "report_cta_copy": "Bring this report to a 20-minute call and we will map each gap to the layer that closes it, on your yard.",
+  "report_cta_link": {
+    "id": "",
+    "url": "https://terminal-industries.com/contact",
+    "linktype": "url",
+    "fieldtype": "multilink",
+    "cached_url": "https://terminal-industries.com/contact"
+  },
+  "report_filename": "terminal-yard-security-report",
+  "back_button_text": "Back",
+  "demo_button_text": "Book a demo",
+  "next_button_text": "Next layer",
+  "option_low_label": "No",
+  "option_mid_label": "Partially",
+  "report_cover_tag": "Yard Security",
+  "report_cta_title": "Close your yard security gaps today.",
+  "report_recs_none": "Every layer is in place. Maintain the baseline and keep instrumenting the metrics that hold it there.",
+  "final_button_text": "See my result",
+  "option_high_label": "Yes",
+  "qualifier_enabled": true,
+  "report_recs_intro": "In the order that closes the most exposure for the least effort, based on your grade.",
+  "report_recs_label": "Recommendations",
+  "report_recs_title": "How to shore up your gaps",
+  "start_button_text": "Grade my yard",
+  "qualifier_footnote": "Positive driver ID and departure logging (Layer 02), an attributed access record (Layer 00), and seal integrity (Layer 03) are the criteria a validation leans on. Terminal produces the operational record; CBP certifies.",
+  "qualifier_question": "Do you participate in CTPAT, or do your customers require it?",
+  "report_cover_label": "Confidential Assessment",
+  "cta_success_message": "Your report is open in a new tab. If it did not open, use the button below.",
+  "exposure_fix_prefix": "Closes it:",
+  "report_closing_copy": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "text": "Terminal closes all five layers on a single gate vision layer, native to the Yard Operating System you already run. Each layer reinforces the next, so the system interlocks instead of leaking at the seams.",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "report_contact_line": "info@terminal-industries.com  ·  737-279-5032  ·  terminal-industries.com",
+  "report_result_label": "Your grade",
+  "report_result_title": "Where your gate stands today",
+  "restart_button_text": "Grade again",
+  "report_closing_label": "The Terminal approach",
+  "report_closing_title": "Five layers, one platform, one record",
+  "qualifier_strong_copy": "Positive driver ID, access logging, business-partner screening, and seal integrity are largely in place. A validation becomes a query, not a scramble.",
+  "report_cover_footnote": "Generated from the Terminal Yard Security Grader  ·  © 2026 Terminal Industries",
+  "report_exposure_label": "Your biggest exposure",
+  "qualifier_exposed_copy": "The access-control, driver-ID, and seal evidence CTPAT expects is largely missing today. A validation would surface it quickly.",
+  "qualifier_partial_copy": "The building blocks exist but have gaps. Positive driver identification and a complete access-control record are where CTPAT validations most often expose weakness.",
+  "qualifier_report_intro": "The layers you close for security also produce the evidence a CTPAT validation expects. Based on your grade, here is where you stand against the criteria most tied to the gate.",
+  "qualifier_report_label": "Compliance · included because you flagged CTPAT",
+  "report_cta_button_text": "Talk to Terminal",
+  "report_standards_intro": "Your gaps are easier to read against a fixed target. Strong yard security meets these standards, regardless of the technology behind them.",
+  "report_standards_label": "The target",
+  "report_standards_title": "What good looks like, layer by layer",
+  "report_strengths_label": "Hold your strengths.",
+  "qualifier_takeaway_label": "The takeaway"
+}

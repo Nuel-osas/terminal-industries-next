@@ -1,0 +1,19 @@
+{
+  "_uid": "62f13b63-d704-49b7-94ab-46b12b449f72",
+  "label": "Calculator",
+  "title": "Tell us about your yard:",
+  "component": "ROICalculator",
+  "cta_title": "Want to know more?\n",
+  "disclaimer": "",
+  "campaign_id": "701cx00000fZ0XE",
+  "cta_button_text": "SUBMIT",
+  "cta_description": "Enter your work email below if you would like to run a custom ROI analysis with one of our team of yard experts.",
+  "field_label_wage": "Blended hourly wage",
+  "field_label_gates": "Number of gates",
+  "field_label_shifts": "Shifts per day",
+  "cta_success_message": "Thank you for submitting your data! A Terminal Yard Expert will be in touch within 1-business day to set up a cost savings consultation with you.",
+  "field_label_checkins": "Check-ins per day",
+  "field_label_spotters": "Spotters per shift",
+  "field_label_demurrage": "How significant are your annual detention and demurrage costs?",
+  "field_label_operating_days": "Operating days per week"
+}

@@ -1,0 +1,1587 @@
+{
+  "date": "2026-10-14",
+  "framework": "Next.js App Router",
+  "http": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/grader-report",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/gartner26-state-of-the-yard-survey",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/2026-state-of-the-yard-survey-report",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/Cyndie-landing-page",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/demo-landing-page",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/clipboard-mailer",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/interactive-highlights-2026-state-of-the-yard-survey",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/get-more-out-of-your-wms-and-tms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/lets-talk-supply-chain-library",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modex-state-of-the-yard-survey-report",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/Gartner2026",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modex2026",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/manifest2026",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/careers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/privacy-policy",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/subscribe-to-our-newsletter",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/events",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/security",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/technical-index",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/terminal-ai-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/smart-yard-tm-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/system",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/virtual-modex-booth",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/terminal-across-your-operation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/why-terminal",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/the-agentic-ai-yard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/yard-security-grader",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/yard-efficiency-calculator",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/3-check-ins-in-2-5-minutes-terminal-yard-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/yos-vs-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/terminal-at-the-dock",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/4-minute-pilot-kit-installation-terminal-yard-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/2026-market-report-leading-yard-management-system-yms-platforms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/agentic-ai-in-the-yard-autonomous-workflows-that-think-act-and-optimize",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/terminal-in-the-yard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/35-logistics-ai-terms-every-supply-chain-leader-should-know-in-2026",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-native-vs-legacy-yard-management-a-technical-deep-dive-into-accuracy",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-in-yard-management-every-use-case-explained",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/yard-security",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-supply-chain-software",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/terminal-at-the-gate",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/3pl-tms-guide-features-benefits-logistics-automation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/amazon-just-turned-its-supply-chain-into-a-product-here-s-what-that-means-for-the-yard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-yard-management",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-in-logistics-and-supply-chain-trends-tech-benefits",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/automated-dispatch-software",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/amazon-s-3-5-surcharge-isn-t-just-about-fuel",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/agile-supply-chain-benefits-strategies-future-trends",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/automation-isnt-the-hard-part-anymore",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/what-is-terminal-yos",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/behind-the-scenes-of-our-technology",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/autonomous-trucks-are-coming",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/beyond-the-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/beyond-throughput-real-world-roi-from-ai-powered-yard-deployments",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-route-optimization-boost-logistics-efficiency-savings",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/beyond-throughput-the-cfo-s-framework-for-yard-driven-p-l-transformation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/case-study-how-ryder-achieved-50-throughput-gains-with-ai-yard-automation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/beyond-visibility-benchmarking-yard-efficiency-and-wms-tms-integration",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/automated-gate-systems-enhance-security-efficiency-today",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/cargo-theft-now-starts-with-paperwork-that-looks-perfect",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/build-as-your-yard-grows-on-one-operating-system",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/chinese-new-year-2026-shipping-whiplash-meets-the-yard-gate-reality",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/chris-brumett-podcast",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/computer-vision-in-the-lane-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/comparative-analysis-leading-platforms-for-real-time-yard-visibility-and-control-2026-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/contact-us-interactive-survey",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/best-dock-scheduling-software-for-efficient-warehouse-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/competitive-intelligence-why-enterprise-leaders-are-pivoting-from-legacy-yms-to-terminal-yos",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/carrier-management-solutions-optimize-logistics-with-ai-tms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/comparing-a-yard-management-system-vs-a-traditional-check-in-process-which-saves-more-time-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ai-supply-chain-software-transforming-efficiency-visibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/carrier-management-platform-optimize-logistics-compliance",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/carrier-operation-management-platform-streamline-logistics-today",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/comparing-cloud-based-vs-on-premise-yard-management-software-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/detention-vs-demurrage",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/digital-gate-check-in-terminal-yard-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/digital-twin-yard-mapping-creating-a-real-time-nerve-center",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/detention-and-demurrage-key-shipping-fees-explained-clearly",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/dock-scheduling-software",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/detention-charges-in-logistics-causes-costs-reduction-tips",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/digitised-gate-still-a-bottleneck",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/dock-scheduling-software-transforming-loading-dock-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/digital-dock-scheduling-software-features-benefit-guide",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/emerging-technologies-in-logistics-pillar-page",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/detention-in-trucking-causes-fees-impact-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/dynamic-route-planning-optimize-logistics-with-ai-real-time-data",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/end-to-end-logistics-visibility-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/digital-freight-matching-boost-efficiency-cut-logistics-costs",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-blind-spot-to-command-center-why-2026-demands-a-yard-operating-system-yostm-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/dynamic-yard-management-system-optimize-supply-chain-visibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-incheon-to-the-yard-the-global-race-toward-fully-autonomous-ports-and-the-growing-chasm-in-between",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-gate-to-dock-building-autonomous-yard-workflows-with-agentic-ai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/first-principles-thinking-in-logistics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/drop-trailer-programs-raise-logistics-efficiency-flexibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/freight-rate-management-software-automate-optimize-costs",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/gate-check-out-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-yard-to-nerve-center-how-agentic-ai-transforms-operational-control",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/freight-validation-the-critical-foundation-of-modern-transportation-logistics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/gate-entry-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/end-to-end-supply-chain-visibility-optimize-and-innovate",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-manual-to-autonomous-the-evolution-of-the-yard-management-system",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/essential-supply-chain-metrics-and-kpis-for-business-success",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/cpg-supply-chain-digitization-transforming-operations-with-ai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/from-paper-logs-to-platforms-why-yard-management-software-is-the-missing-link-in-logistics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/groundbreakers-2025",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/gate-entry-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/how-ai-is-transforming-yard-throughput-reducing-bottlenecks-and-strengthening-supply-chain-resilience",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/general-supply-chain-automation-ai-pillar-page",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/humanoid-robots-are-entering-logistics-but-the-yard-still-has-to-catch-up-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/gate-automation-systems-boost-security-efficiency-today",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/how-yard-management-software-strengthens-safety-and-compliance-in-industrial-yards",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/inside-terminal-s-agentic-ai-the-technology-behind-yard-orchestration",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/gate-security-management-systems-tech-best-practices",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/how-a-modern-yard-management-system-reduces-bottlenecks-in-high-volume-distribution-centers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-ep4-lights-out-cameras-action-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/interactive-summary-of-terminal-s-2026-state-of-the-yard-survey-results",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/if-trust-in-freight-is-dead-why-is-it-still-running-the-yard-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/how-to-use-yard-management-software-to-improve-dock-scheduling-and-asset-utilization",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-2-replay",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-3-replay",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-5",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/human-agent-redefining-yard-roles-with-autonomous-workflows",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/how-a-yard-management-system-enhances-real-time-visibility-across-multi-site-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/generative-ai-in-supply-chain-enhance-efficiency-visibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-6-all-roads-lead-to-the-dock",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/Lights-out-yard-episode-1-replay",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/inside-the-agentic-ai-yard-how-computer-vision-and-autonomous-workflows-drive-real-time-control",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-7",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/lights-out-yard-episode-8",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/inland-container-depots-boosting-trade-supply-chain-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/missionstm-at-modex-2026-turning-ai-and-automation-into-real-yard-execution",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/multiple-angle-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/managing-yard-operations-as-a-strategic-execution-risk-the-c-suite-s-new-priority",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/next-gen-yard-visibility-leading-platforms-for-real-time-asset-control",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/market-guide-software-categories-for-yard-digitization-and-automation-2026-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/managing-detention-truckload-carriers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/networked-yard-intelligence-orchestrating-multiple-facilities-with-predictive-analytics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/logistics-visibility-platforms-features-benefits-trends",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/multiple-lane-detection-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/mobile-asset-inventory-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/reference-architecture-terminal-project44-fourkites-connecting-network-visibility-to-yard-execution",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/parked-power-unit-asset-inventory-terminal-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/pilot-kit-entry-and-exit-terminal-yard-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/reference-architecture-modernizing-legacy-wms-tms-with-terminal-s-agentic-ai-layer",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/logistics-optimization-software-boost-supply-chain-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/summary-post-the-execution-brain-for-the-global-supply-chain",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/ocr-reads-the-plate-computer-vision-runs-the-yard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/solutions-dockage-availability-waitlist-management",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/stop-trailer-hunt-yard-management-system-that-works",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/saas-transportation-management-systems-features-benefits",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/retail-supply-chain-digitization-trends-tech-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/sustainability-starts-at-the-gate",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/real-time-visibility-in-logistics-tech-benefits-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-industries-receives-their-third-5-star-gartner-peer-review",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/technical-white-paper-eliminating-supply-chain-bottlenecks-via-ai-native-yard-orchestration",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/robotic-process-automation-in-supply-chain-benefits-trends",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/supply-chain-agility-metrics-measure-steer-performance",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/supply-chain-digital-transformation-tech-benefits-trends",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/supply-chain-execution-software-optimize-wms-tms-oms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-in-a-cameratm-the-plug-and-play-path-to-yard-digitization",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-c3-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/sustainability-in-motion-how-a-yard-management-system-can-reduce-idle-time-and-emissions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-eaigle",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/supply-chain-monitoring-boost-efficiency-ensure-compliance",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-fourkites",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-manhattan-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-project44",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-sap-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-kaleris",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-99-accuracy-benchmark-lessons-from-the-terminal-ryder-pilot",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-renaissant",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-yos-receives-5-star-gartner-peer-insights-review-a-modern-operator-friendly-yard-platform-that-brings-structure-visibility-and-speed-to-daily-operations-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-operation-guide-cargo-handling-port-logistics-tips",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-yardview",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-yos-receives-second-5-star-gartner-peer-insights-review-terminal-delivers-immediate-efficiency-gains-and-consistent-long-term-platform-value-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/terminal-vs-vector",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-4-5-million-freight-theft-that-started-with-a-fake-identity",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-autonomous-warehouse-has-a-blind-spot-the-yard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-driver-is-gone-the-yard-problem-isn-t-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-multiplier-effect-why-terminal-is-the-strategic-ai-layer-for-sap-oracle-and-fourkites",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-rise-of-the-yard-operating-system-yostm-why-legacy-yms-is-no-longer-enough",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-kitkat-heist-wasn-t-about-chocolate-it-was-about-control-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-reference-architecture-for-the-ai-native-yard-a-blueprint-for-2026",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-sky-just-opened-logistics-didn-t-stay-on-the-ground-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-yard-gets-no-respect",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-cv-market-is-having-its-saaspocalypse-moment",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-state-of-yard-operations-in-2026-25-statistics-every-supply-chain-leader-should-know",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-hidden-costs-of-outdated-yard-management-software-and-how-to-avoid-them-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-yard-doesn-t-have-a-visibility-problem-it-has-an-execution-problem-terminal-industries-introduces-missionstm",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-future-of-logistics-why-every-warehouse-needs-an-ai-powered-yard-management-system",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/the-role-of-ai-and-predictive-analytics-in-next-generation-yard-management-software",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/top-supply-chain-kpis-to-grow-efficiency-customer-satisfaction",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/trailer-yard-management",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/what-is-a-yard-mission",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/trailer-tracking-systems-features-benefits-fleet-tips",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/why-terminal-built-a-carrier-ready-appointments-module",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/visibility-shouldnt-require-a-merger",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/why-we-built-missions-turning-yard-activity-into-execution-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/top-supply-chain-visibility-tools-for-efficient-logistics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/what-is-a-yard-operating-system-yos-the-missing-layer-between-your-yard-warehouse-and-transportation-network",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/transportation-management-system-tms-optimize-supply-chain-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/trailer-tracking-yard-gps-computer-vision",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/top-transportation-management-systems-features",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-automation-platform",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-computer-vision-physics-problem",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-digitization-readiness-a-framework-for-ai-native-adoption",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/trailer-yard-management-optimize-logistics-with-smart-yms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-asset-management-digitize-logistics-for-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-automation-increase-supply-chain-efficiency",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-automation-enhance-efficiency-and-safety-in-logistics",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-system-checklist-buy-the-right-one",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-software-elevate-logistics-efficiency-today",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-dock-management-boost-efficiency-with-ai-and-yms-solutions",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-system-ai-powered-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-systems-yard-workflows",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-roi-calculator-estimate-your-savings-from-ai-powered-yard-automation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-system-foster-supply-chain-efficiency-today",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-in-warehousing-drive-efficiency-with-automation",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-management-companies",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/landing/Terminal-for-yardview-customers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yard-automation-platforms-increase-efficiency-logistics-safety",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yms-integration-with-wms",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yms-rfid-compatibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yms-vs-yos-vs-wms-vs-tms-what-s-the-difference-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/landing/lets-talk-supply-chain-landing-page",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yms-and-wms-integration-augment-efficiency-in-supply-chain",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-3pls",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/all-resources/yms-features-benefits-innovations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-contract-carriers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-consumer-packaged-goods-cpg-",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-digital-transformation-innovation-teams",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-financial-decision-makers",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-drop-lots",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-frontline-users",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-executive-leadership",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-it-technology-professionals",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-logistics-specialists",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-manufacturing-facilities",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-operations-management",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-maintenance-fueling-depots",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-medium-sized-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-refrigerated-warehousing",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-retail-grocery",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/markets/terminal-for-warehouse-yards",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/load-verification",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/carrier-appointments",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/gate-management",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/carrier-risk-assessment-and-driver-id",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/podcasts-articles",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/dispatch-and-spotter-orchestration",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/press-releases",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/modules/yard-visibility",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/case-studies",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/high-operational-costs",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/videos",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/webinars",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/resources/blogs",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/labor-shortages-and-workforce-issues",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/inefficient-operations",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/lack-of-integration-and-data",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/lack-of-supply-chain-resilience",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/slow-technology-adoption",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/meeting-sustainability-targets",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/security-safety-and-fraud",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/poor-customer-experience",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/top-yard-problems/real-time-visibility",
+      "status": 200,
+      "passed": true
+    }
+  ],
+  "browser": [
+    {
+      "device": "desktop",
+      "route": "/",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/about",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/contact",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/system",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/why-terminal",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/security",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/careers",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/resources",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/resources/blogs",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/resources/videos",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/markets/terminal-for-3pls",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/modules/yard-visibility",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/terminal-at-the-gate",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/yard-efficiency-calculator",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/yard-security-grader",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/demo-landing-page",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/subscribe-to-our-newsletter",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/privacy-policy",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/all-resources/3-check-ins-in-2-5-minutes-terminal-yard-efficiency",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/all-resources/4-minute-pilot-kit-installation-terminal-yard-efficiency",
+      "passed": true
+    },
+    {
+      "device": "desktop",
+      "route": "/all-resources/agentic-ai-in-the-yard-autonomous-workflows-that-think-act-and-optimize",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/about",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/contact",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/system",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/why-terminal",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/security",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/careers",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/resources",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/resources/blogs",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/resources/videos",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/markets/terminal-for-3pls",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/modules/yard-visibility",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/terminal-at-the-gate",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/yard-efficiency-calculator",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/yard-security-grader",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/demo-landing-page",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/subscribe-to-our-newsletter",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/privacy-policy",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/all-resources/3-check-ins-in-2-5-minutes-terminal-yard-efficiency",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/all-resources/4-minute-pilot-kit-installation-terminal-yard-efficiency",
+      "passed": true
+    },
+    {
+      "device": "mobile",
+      "route": "/all-resources/agentic-ai-in-the-yard-autonomous-workflows-that-think-act-and-optimize",
+      "passed": true
+    }
+  ],
+  "interactions": [
+    "desktop: navigation menu",
+    "desktop: truck frame sequence",
+    "desktop: FAQ tabs and disclosure",
+    "desktop: calculator formulas and local form",
+    "desktop: complete 15-question grader",
+    "desktop: contact form local success",
+    "desktop: resource search",
+    "desktop: native Next.js navigation",
+    "mobile: navigation menu",
+    "mobile: truck frame sequence",
+    "mobile: FAQ tabs and disclosure",
+    "mobile: calculator formulas and local form",
+    "mobile: complete 15-question grader",
+    "mobile: contact form local success",
+    "mobile: resource search",
+    "mobile: native Next.js navigation"
+  ],
+  "failures": []
+}
