@@ -49,6 +49,6 @@ npm run typecheck
 npm test
 ```
 
-Browser checks need installed Chrome/Chromium. Set `CHROME_PATH` if detection fails. `npm test` launches a temporary production server, checks all 270 routes over HTTP, then tests 21 representative pages at desktop and mobile sizes and 16 interactions. Reports and screenshots are written to ignored `.qa/`.
+Browser checks need installed Chrome/Chromium. Set `CHROME_PATH` if detection fails. `npm test` launches a temporary production server, checks all 270 routes over HTTP, then tests 21 representative pages at desktop and mobile sizes and 16 interactions. Additional checks cover platform-card expansion, animated canvas backgrounds, and legacy redirects. Reports and screenshots are written to ignored `.qa/`.
 
 Reconstructed from public content on 14 October 2026. D-j-View's Terminal capture encountered a Storyblok filename collision; a separate collector in this project completed the public sitemap and media collection. Original Vue/Nuxt runtimes are not used. Native animation timing, menus, resource loading, and local report behavior have been recreated; pixel-perfect equivalence across every state has not been established. This repository contains a frontend recreation, not the original private application or backend.

@@ -111,6 +111,8 @@ function render(node, options = {}) {
       JSON.stringify(currentRoute.split("/").pop()) +
       " />"
     );
+  if (node.attribs.class?.split(" ").includes("features-carousel-expandable"))
+    return "<FeatureCarousel />";
   if (tag === "iframe")
     return (
       "<ExternalMedia url={" + JSON.stringify(node.attribs.src || "") + "} />"
@@ -268,7 +270,7 @@ const dependencies = (body) =>
     .filter((s) => body.includes(`<${s.name} `))
     .map((s) => `import ${s.name} from '@/components/sections/${s.name}';`)
     .join("\n");
-const baseImports = `import Link from 'next/link';\nimport SiteHeader from '@/components/SiteHeader';\nimport HeroSequence from '@/components/HeroSequence';\nimport YardCalculator from '@/components/YardCalculator';\nimport YardGrader from '@/components/YardGrader';\nimport ExternalMedia from '@/components/ExternalMedia';\nimport TabbedFAQ from '@/components/TabbedFAQ';\nimport ResourceLibrary from '@/components/ResourceLibrary';\n`;
+const baseImports = `import Link from 'next/link';\nimport SiteHeader from '@/components/SiteHeader';\nimport HeroSequence from '@/components/HeroSequence';\nimport YardCalculator from '@/components/YardCalculator';\nimport YardGrader from '@/components/YardGrader';\nimport ExternalMedia from '@/components/ExternalMedia';\nimport TabbedFAQ from '@/components/TabbedFAQ';\nimport ResourceLibrary from '@/components/ResourceLibrary';\nimport FeatureCarousel from '@/components/FeatureCarousel';\n`;
 await fs.mkdir("components/pages", { recursive: true });
 await fs.mkdir("components/sections", { recursive: true });
 await fs.mkdir("lib", { recursive: true });

@@ -1,0 +1,305 @@
+[
+  {
+    "tab_label": "AT THE GATE",
+    "title": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "Automate and Expedite Gate Operations",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "Our system automates and streamlines the entire check-in and check-out process. The AI Computer Vision system accelerates gate flow, improves data accuracy,  reduces manual labor, and by integrating with your TMS, manages arrivals and enables digital compliance forms, replacing paper-based inspections.",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "background_image": {
+      "id": 120978580976576,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/337048/768x432/ce73b10067/gate-entry.jpg",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": {},
+      "is_external_url": false
+    },
+    "background_color": {
+      "value": "#ABFF02"
+    },
+    "button": {
+      "label": "More",
+      "link": {
+        "url": "",
+        "cached_url": "terminal-at-the-gate"
+      }
+    },
+    "image": "/assets/4fef400e15d790913ab9.webp"
+  },
+  {
+    "tab_label": "IN THE YARD",
+    "title": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "Real-Time Visibility and Workflow Automation",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "Our solution provides real-time visibility of all assets and goods from arrival to departure. It automates critical workflows, manages spotter vehicles, and helps plan shipments and appointments.",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "background_image": {
+      "id": 91036990733742,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/337048/1272x1196/29dcba4210/yard.png",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": {},
+      "is_external_url": false
+    },
+    "background_color": {
+      "value": "#c2c2c2"
+    },
+    "button": {
+      "label": "More",
+      "link": {
+        "url": "",
+        "cached_url": "terminal-in-the-yard"
+      }
+    },
+    "image": "/assets/f1bafaa707220edbcc1f.webp"
+  },
+  {
+    "tab_label": "AT THE DOCK",
+    "title": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "Optimize Loading and Improve Dock Efficiency",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "YOS",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            },
+            {
+              "text": "TM",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "type": "superscript"
+                }
+              ]
+            },
+            {
+              "text": "  streamlines loading and monitoring by integrating with your Warehouse Management System (WMS) to synchronize dock schedules with real-time yard activity. It offers a clear view of all incoming and outgoing shipments, helps manage dock door availability, and allows for pre-planning to reduce wait times.",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "background_image": {
+      "id": 113821374604331,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/337048/565x336/e5f3b11568/dock-doors.png",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": {},
+      "is_external_url": false
+    },
+    "background_color": {
+      "value": "#052424"
+    },
+    "button": {
+      "label": "More",
+      "link": {
+        "url": "",
+        "cached_url": "terminal-at-the-dock"
+      }
+    },
+    "image": "/assets/0981415704d998105da0.webp"
+  },
+  {
+    "tab_label": "ACROSS OPERATIONS",
+    "title": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "A Unified, Connected Data-Driven System",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": null
+          },
+          "content": [
+            {
+              "text": "From gate to dock and beyond, our system offers a cohesive platform that optimizes workflows and provides maximum visibility across all your yards. It delivers real-time insights and analytics through custom dashboards and alerts, helping you make data-driven decisions.",
+              "type": "text",
+              "marks": [
+                {
+                  "type": "textStyle",
+                  "attrs": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "background_image": {
+      "id": 110544897979801,
+      "alt": "",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "source": "",
+      "filename": "https://a.storyblok.com/f/337048/2034x1150/c561abc6ba/r.webp",
+      "copyright": "",
+      "fieldtype": "asset",
+      "meta_data": {},
+      "is_external_url": false
+    },
+    "background_color": {
+      "value": "#ABFF02"
+    },
+    "button": {
+      "label": "More",
+      "link": {
+        "url": "",
+        "cached_url": "terminal-across-your-operation"
+      }
+    },
+    "image": "/assets/6e7ecfa3d3494721b845.webp"
+  }
+]

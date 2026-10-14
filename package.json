@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start -H 127.0.0.1 -p 4183",
     "typecheck": "tsc --noEmit",
-    "test": "node scripts/verify.mjs"
+    "test": "node scripts/verify.mjs && node scripts/verify-effects.mjs",
+    "test:effects": "node scripts/verify-effects.mjs"
   },
   "engines": {
     "node": ">=22"
